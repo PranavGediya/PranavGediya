@@ -78,7 +78,7 @@ Currently working on an **end-to-end encrypted web chat** with X3DH key exchange
 |--------|-------------|
 | [**Multi-Cloud CI/CD Pipeline**](https://github.com/PranavGediya) | Automated deployment pipeline spanning AWS, GCP, and OCI with Terraform + GitHub Actions |
 | [**IaC Deployments**](https://github.com/PranavGediya/IaC) | Infrastructure-as-Code with Terraform & CloudFormation — EC2, VPC, S3, IAM |
-| **OpenClaw Monitoring**(https://github.com/PranavGediya/Openclaw-monitoring-and-security-audit-system) | AWS-based monitoring system built during internship — real-time alerting & observability |
+| [**OpenClaw Mohttps://github.com/PranavGediya/Openclaw-monitoring-and-security-audit-systemnitoring**](https://github.com/PranavGediya/Openclaw-monitoring-and-security-audit-system) | AWS-based monitoring system built during internship — real-time alerting & observability |
 
 ### 🔐 Security & Applications
 
